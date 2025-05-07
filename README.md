@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Gomes Mancera
 
-<!--
-**GomesMancera/GomesMancera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**  
+💻 Desenvolvedor **Fullstack** em formação, apaixonado por tecnologia, boas práticas e soluções criativas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estudo/trabalho:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java, JavaScript, C#
+- **Frontend:** HTML5, CSS3, Bootstrap, React Native (Expo)
+- **Backend:** Java (Spring Boot), JPA, Hibernate, REST APIs
+- **Banco de Dados:** Oracle SQL, MySQL
+- **Ferramentas:** Git, GitHub, Postman, VS Code, Eclipse
+- **Outros:** UML, Scrum, XP, Design Thinking
+
+## 🧪 Projetos em destaque:
+
+- 🌿 [EcoProdutos](https://github.com/VictorHugo55/EcoProdutos): App sustentável com catálogo verde e desafios ecológicos (React Native + APIs)
+- 💓 [PulseChainApp](https://github.com/GomesMancera/PulseChainApp): Monitoramento do mercado cripto com animações e mapas pulsantes
+- ⚡ [Globalori](https://github.com/GomesMancera/Globalori): API REST em Java com arquitetura DDD para consumo energético
+
+## 📈 GitHub Stats
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GomesMancera&show_icons=true&theme=tokyonight)
+
+## 📫 Me encontre também:
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-gomes-788137204/)
