@@ -30,7 +30,7 @@
   Solução para **gestão de motocicletas em pátios**, com **detecção e OCR de placas (YOLOv8 + OCR)**,  
   API REST (Java Spring Boot e .NET com Oracle) e aplicativo mobile em **React Native + Expo**.  
 
-- 📌 [**Checkpoint 1 – API REST Spring Boot**](https://github.com/GomesMancera/checkpoint1-springboot)  
+- 📌 [**Checkpoint – API REST Spring Boot**](https://github.com/GomesMancera/checkpoint1-springboot)  
   Projeto acadêmico para consolidação de **APIs RESTful com persistência em H2**,  
   utilizando **Spring Boot 3.4.5, JPA, Bean Validation e Swagger**.  
   Inclui CRUD completo de **Clientes** e **Produtos**, com validações e documentação interativa.  
