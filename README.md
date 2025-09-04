@@ -11,7 +11,7 @@
 - **Frontend:** HTML5, CSS3, Bootstrap, React Native (Expo), AngularJS, JQuery  
 - **Backend:** Java (Spring Boot, JPA, Hibernate, JSP, Servlets), ASP.NET MVC, APIs REST  
 - **Banco de Dados:** Oracle SQL, MySQL  
-- **Cloud & Big Data:** IBM Cloud, AWS (em aprendizado), Big Data & Analytics  
+- **Cloud & Big Data:** IBM Cloud, AWS, Big Data & Analytics  
 - **Arquitetura & Frameworks:** MVC, JSF, EJB, Entity Framework  
 - **Ferramentas:** Git, GitHub, Postman, VS Code, Eclipse, IntelliJ  
 - **Metodologias & Boas Práticas:** UML, Scrum, XP, Design Thinking, Prototipação, DevOps  
@@ -31,13 +31,6 @@
 
 ---
 
-## 🌱 Em aprendizado  
-
-- Desenvolvimento Mobile **Android/iOS**  
-- **DevOps** & Integração Contínua  
-- **Startup One (FIAP):** Empreendedorismo & inovação em tecnologia  
-
----
 
 ## 📊 GitHub Stats  
 
