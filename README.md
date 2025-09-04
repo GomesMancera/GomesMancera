@@ -22,11 +22,16 @@
 
 ## 🧪 Projetos em destaque  
 
-- 🌿 [**EcoProdutos**](https://github.com/VictorHugo55/EcoProdutos)  
-  App sustentável com catálogo verde e desafios ecológicos (React Native + APIs).  
+- 🌍 [**BioSentinela**](https://github.com/GS-BioSentinela)  
+  Sistema completo de monitoramento ambiental com **IoT, visão computacional e API em Java Spring Boot**.  
+  Inclui autenticação JWT, CRUD completo (Região, Sensor, Alerta), Swagger, paginação, DTOs e deploy em nuvem.  
 
-- 💓 [**PulseChainApp**](https://github.com/GomesMancera/PulseChainApp)  
-  Monitoramento do mercado cripto com animações e mapas pulsantes.  
+- 🚲 [**MotoGrid**](https://github.com/Challenger-MOTTU)  
+  Plataforma inteligente para mapeamento de motos em pátios, com **visão computacional (YOLOv8 + OCR)**,  
+  API em Spring Boot, banco Oracle e frontend mobile em **React Native + Expo**.  
+
+- 🌿 [**EcoProdutos**](https://github.com/VictorHugo55/EcoProdutos)  
+  App sustentável com catálogo verde e desafios ecológicos (React Native + APIs).   
 
 - ⚡ [**Globalori**](https://github.com/GomesMancera/Globalori)  
   API REST em Java com arquitetura **DDD** para consumo energético.  
