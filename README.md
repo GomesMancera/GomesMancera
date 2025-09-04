@@ -23,18 +23,18 @@
 ## 🧪 Projetos em destaque  
 
 - 🌍 [**BioSentinela**](https://github.com/GS-BioSentinela)  
-  Sistema completo de monitoramento ambiental com **IoT, visão computacional e API em Java Spring Boot**.  
-  Inclui autenticação JWT, CRUD completo (Região, Sensor, Alerta), Swagger, paginação, DTOs e deploy em nuvem.  
+  Plataforma de **monitoramento ambiental inteligente**, integrando **IoT, visão computacional e API em Java Spring Boot**.  
+  Inclui autenticação JWT, CRUD completo (Região, Sensor, Alerta), paginação, DTOs, Swagger e deploy em nuvem.  
 
 - 🚲 [**MotoGrid**](https://github.com/Challenger-MOTTU)  
-  Plataforma inteligente para mapeamento de motos em pátios, com **visão computacional (YOLOv8 + OCR)**,  
-  API em Spring Boot, banco Oracle e frontend mobile em **React Native + Expo**.  
+  Solução para **gestão de motocicletas em pátios**, com **detecção e OCR de placas (YOLOv8 + OCR)**,  
+  API REST (Java Spring Boot e .NET com Oracle) e aplicativo mobile em **React Native + Expo**.  
 
 - 🌿 [**EcoProdutos**](https://github.com/VictorHugo55/EcoProdutos)  
-  App sustentável com catálogo verde e desafios ecológicos (React Native + APIs).   
+  Aplicativo sustentável com catálogo verde e desafios ecológicos (React Native + APIs).  
 
 - ⚡ [**Globalori**](https://github.com/GomesMancera/Globalori)  
-  API REST em Java com arquitetura **DDD** para consumo energético.  
+  API REST em Java com arquitetura **DDD** para gerenciamento de consumo energético.  
 
 ---
 
