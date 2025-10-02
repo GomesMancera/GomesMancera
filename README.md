@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gabriel Gomes Mancera  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [FIAP](https://www.fiap.com.br)  
-💼 Atualmente, estagiário de desenvolvimento full stack na [SAUÍ]((https://saui.com.br)).  
+💼 Atualmente, estagiário de desenvolvimento full stack na [SAUÍ](https://saui.com.br).  
 💻 Desenvolvedor **Fullstack** em formação, apaixonado por tecnologia, boas práticas e soluções criativas.  
 
 
